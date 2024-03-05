@@ -1,0 +1,10 @@
+psycopg
+apache-airflow
+datetime
+geopy
+pandas
+traceback2
+python-dotenv
+azure-storage-blob
+azure-mgmt-storage
+azure-common
